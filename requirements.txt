@@ -1,0 +1,9 @@
+Pillow
+gradio
+kagglehub
+matplotlib
+numpy
+scikit-learn
+streamlit
+torch
+torchvision
